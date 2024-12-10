@@ -1,4 +1,6 @@
-Project Overview
+**Project Overview**
+
+
 This repository contains a Python-based performance analysis dashboard for analyzing app logs. The goal of the project is to extract meaningful insights from the logs, visualize app health metrics, and implement basic anomaly detection to identify performance issues.
 
 **Dataset**
